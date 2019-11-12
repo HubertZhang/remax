@@ -43,7 +43,13 @@ Remax 将 React 运行在小程序环境中，让你可以使用完整的 React 
 
 https://github.com/remaxjs/examples
 
-## 贡献者
+## 贡献
+
+### [贡献指南](CONTRIBUTING.md)
+
+查看如何为 Remax 贡献自己的力量。
+
+### 贡献者
 
 <a href="https://github.com/remaxjs/remax/graphs/contributors"><img src="https://opencollective.com/remax/contributors.svg?width=890&button=false" /></a>
 
